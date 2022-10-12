@@ -15,6 +15,8 @@ namespace Prog_122_F23_Lecture_7_WinForms
         public Form1()
         {
             InitializeComponent();
-        }
-    }
-}
+        } // Form 1
+
+    } // class
+
+} // namespace
